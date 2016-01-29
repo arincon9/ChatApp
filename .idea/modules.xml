@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/chatrb.iml" filepath="$PROJECT_DIR$/.idea/chatrb.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/ChatApp.iml" filepath="$PROJECT_DIR$/.idea/ChatApp.iml" />
+>>>>>>> a301b99069eb0243f1079f95868f4bc37fdbc4b9
     </modules>
   </component>
 </project>
